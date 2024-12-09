@@ -1,0 +1,6 @@
+streamlit
+numpy
+sounddevice
+scipy
+pyttsx3
+opencv-python
