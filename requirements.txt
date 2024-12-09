@@ -1,6 +1,6 @@
 streamlit
 numpy
+pyttsx3
+opencv-python-headless
 sounddevice
 scipy
-pyttsx3
-opencv-python
